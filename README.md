@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://samsdivstudios.github.io/Blog-Preview-Card/)
+- Solution URL:(https://github.com/samsdivstudios/Blog-Preview-Card)
+- Live Site URL:(https://samsdivstudios.github.io/Blog-Preview-Card/)
 
 ## My process
 
