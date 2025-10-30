@@ -36,48 +36,37 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- Semantic HTML
+- CSS/Variables
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
+What I have learned recreating this blog card was how to make an image and text sit inline with each other, and for the first time make an active state.
+I also learned on my own before Frontend mentor was Variables which you will see in my CSS code I used it for the first time so handy
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+    <footer>
+      <img src="/assets/images/image-avatar.webp" alt="" width="48">
+      <p class="name">Greg Hooper</p>
+    </footer>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+:root {
+    --bg-color-: hsl(47, 88%, 63%);
+    --card-color-: hsl(0, 0%, 100%);
+    --text-: 500;
+    --title-: 800;
+    --gray-500-: hsl(0, 0%, 42%);
+    --gray-950-: hsl(0, 0%, 7%);
 }
 ```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-
+Area's I want to work on is keeping style clean and short. I will be focusing Media Queries as its not my strongest thing to do I will be revisiting this repo to put into practice other ways to create this card again.
 
 ## Author
 
