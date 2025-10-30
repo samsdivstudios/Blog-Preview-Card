@@ -1,4 +1,4 @@
-# Frontend Mentor - Blog preview card solution
+## Frontend Mentor - Blog preview card solution
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -62,9 +62,6 @@ I also learned on my own before Frontend mentor was Variables which you will see
     --gray-950-: hsl(0, 0%, 7%);
 }
 ```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ### Continued development
 Area's I want to work on is keeping style clean and short. I will be focusing Media Queries as its not my strongest thing to do I will be revisiting this repo to put into practice other ways to create this card again.
 
